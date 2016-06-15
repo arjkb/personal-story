@@ -1,8 +1,9 @@
 ---
-layout: page
-title:  Hello Again
+layout: post
+title:  "Hello Again"
 excerpt: "First post on this new blog!"
-search_omit: true
+tags: [blog, personal]
+comments: true
 ---
 
 This is my first post on this all-new website, built using Jekyll.
