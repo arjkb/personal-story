@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Page to hold miscellaneous items
+title: Stuff
 excerpt: ""
 # image:
 #  feature: so-simple-sample-image-4.jpg
@@ -9,3 +9,6 @@ excerpt: ""
 ---
 
 This is a sample page to hold certain miscellaneous stuff
+
+
+![Transcript application]({{ site.url }}/assets/docs/AmritaTranscriptApplication.docx)
