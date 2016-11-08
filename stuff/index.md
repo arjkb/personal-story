@@ -9,6 +9,3 @@ excerpt: ""
 ---
 
 This is a sample page to hold certain miscellaneous stuff
-
-
-[Transcript application]({{ site.url }}/assets/docs/AmritaTranscriptApplication.docx)
