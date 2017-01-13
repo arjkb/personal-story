@@ -22,7 +22,7 @@ It feels strange to be back at UNM after a gap of 8 months. All the buildings an
 
 I did walk around the campus for a little bit and came across Amir from Iran -- a TA in one of the course I took in spring last year. Though he recognized me, I doubt whether it registered onto his head that I'm coming back here after 8 months, on a different study program.
 
-I live on campus and has been put into the Santa Clara Hall, althought personally, I was hoping for a room in Hokona where I stayed last spring. And I have a roommate. I mean, there's a bed and a shelf full of stuff, but I don't know whether he's currently on campus or whether he's at home for winter break. Most likely the latter judging by the way the dust has settled onto his things.
+I live on campus and has been put into the Santa Clara Hall, although personally, I was hoping for a room in Hokona where I stayed last spring. And I have a roommate. I mean, there's a bed and a shelf full of stuff, but I don't know whether he's currently on campus or whether he's at home for winter break. Most likely the latter judging by the way the dust has settled onto his things.
 
 Although I would've preferred having a room all by myself, sharing the room with another student provides significantly more exposure, which is what I'm ultimately seeking here at UNM.
 
