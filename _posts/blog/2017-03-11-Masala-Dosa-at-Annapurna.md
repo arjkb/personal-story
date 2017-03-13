@@ -4,9 +4,9 @@ title: Masala Dosa at Annapurna
 excerpt: Taking those taste-buds out for a ride!
 tags: masala-dosa chutney restaurant food delicious
 ---
-The last time I ate Indian food was two months ago when I was in India.
+The last time I ate Indian food was two months ago from India.
 
-It's now spring break at UNM -- a week long holiday (10 days in my specific case). Although this is a much-needed holiday, an undesired side-effect is that the UNM dining hall, the La Posada, would not be open 24/7. Instead, it operates from 10 am to 1 pm, which ineffectual for somebody who eats thrice a day; breakfast at 10 and lunch at 12:45 is ridiculous.
+It's now spring break at UNM -- a week long holiday (10 days in my specific case). Although this is a much-needed holiday, an undesired side-effect is that the UNM dining hall, the La Posada, would not be open 24/7. Instead, it operates from 10 am to 1 pm, which is ineffectual for somebody who eats thrice a day; breakfast at 10 and lunch at 12:45 is ridiculous.
 
 Google maps revealed a vegetarian restaurant -- Annapurna -- located half a mile from Santa Clara Hall (where I live). I don't exactly know if this restaurant is Indian, but I'm tempted to think that way. At the very least, "Annapurna" is an Indian name. It was an Indian friend of mine who first mentioned this place to me, but I have never actually been there.
 
@@ -20,19 +20,19 @@ I was pleasantly surprised when Natalie asked me "Do you want it with *sambhar* 
 
 "Sambhar" I replied.
 
-I sat down at a table. The restaurant isn't exactly plush. The furnitures are wooden and resembled teak. The dark brown fans with a light hanging fron its centre were rotating slowly. Fans are a rare sight in America; the one place where I've really seen one is in the electronics engineeing building.
+I sat down at a table. The restaurant isn't exactly plush. The furnitures are wooden. Teak. The dark brown fans with a light hanging from its centre were rotating slowly. Fans are a rare sight in America; the one place where I've really seen one is in the electronics engineeing building.
 
 The white tea arrived quickly. Nothing white about it. What I originally had in mind was tea mixed with milk -- the normal tea that you get in India. What I actually got was some variation of green tea and no milk at all.
 
-Thin large rectangular pieces of cloth half the length of a saree hung down from a wall. A vain aesthetic appeal. One of them had a picture of Ganesha embroidered onto it. Something organic about the whole place.
+Several thin large rectangular pieces of cloth the length of a saree hung down from a wall. A vain aesthetic appeal. One of them had a picture of Ganesha embroidered onto it. Something organic about the whole place.
 
 All the employees in the restaurant were Americans. So this is not exactly an authentic Indian restaurant. Reminds me of those Chinese restaurants back in Kochi which are serviced by either Malayalees or Bengalis.
 
 "Do you like your tea?" Natalie asked me after sometime.
 
-"Yep it's good :)" I replied. Though customer is the king here in America, I didn't want to upset her right in the morning. At the very least, the tea which I was sipping had some sort of medicinal value.
+"Yep it's good :)" I replied. Though customer is the king here in America, I didn't want to upset her right in the morning. At the very least, the tea which I was sipping had some sort of medicinal value. And, as I would later discover, the traditional tea that you get in India is called "authentic chai".
 
-The masala dosa finally arrived after about five minutes. It looks different from the one you get in India. However, it was delicious! And my mouth still waters when I think about the spicy *chutney* that was served along.
+The masala dosa finally arrived after about five minutes. It looks different from the one you get in India. However, it was delicious! And my mouth still waters when I think about the spicy *chutney* that was served along!
 
 The masala contained a variety of different vegetables, and not just potatoes like we get back in India.
 
@@ -40,7 +40,7 @@ After the meal I was feeling refreshed, recharged, and energetic; contrary to wh
 
 Overall, this was easily the best masala dosa I have tried in a long while, and I left the restaurant satisfied, having mastered the art of eating dosa with a spoon and a fork!
 
-I recommend this place to anyone who want to taste the magic of Indian food.
+I recommend this place to anyone who wants to taste the magic of Indian food.
 
 Would I go here again? You bet!
 
