@@ -23,3 +23,6 @@ Note that our library does have spaces where people are permitted to talk, and t
 Sad and ironical in a country where people generally tend to go to extreme lengths (in comparison to my home country) to display politeness. I definitely hear a lot more "thank-you"s and and see a lot more door-holdings here in America rather than in India. Yet, when it comes to basic things -- like, staying quiet in the library -- I'm thoroughly disappointed.
 
 Having said that, I must say not all people are loud. There are infact a lot of people who show courtesy to other fellow students and whisper in soft voices when conversing in the library.
+
+<a class="muut" href="https://muut.com/i/pointblank/comments" type="dynamic">pointblank</a>
+<script src="//cdn.muut.com/1/moot.min.js"></script>

@@ -53,3 +53,6 @@ Would I go here again? You bet!
     Ph: (505) 262-2424
 
 Visit their website at [chaishoppe.com](http://www.chaishoppe.com/ "Annapurna's World Vegetarian Cafe"){:target="_blank"}
+
+<a class="muut" href="https://muut.com/i/pointblank/comments" type="dynamic">pointblank</a>
+<script src="//cdn.muut.com/1/moot.min.js"></script>

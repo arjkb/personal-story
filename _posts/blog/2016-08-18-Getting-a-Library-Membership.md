@@ -24,3 +24,6 @@ There are several shelves full of English fiction, which is kind of what I wante
 The library also has an online portal where I can login and renew my books, and reserve the books which I wish to read etc. The website itself seems rather neat -- way better than what my former college offered.
 
 In addition, it maintains an [online catalog](http://122.165.117.71/) of all the books in the library, and includes useful information like whether or not the books are currently in the library, its shelf number and location etc. You don't have to log in to view the online catalog.
+
+<a class="muut" href="https://muut.com/i/pointblank/comments" type="dynamic">pointblank</a>
+<script src="//cdn.muut.com/1/moot.min.js"></script>

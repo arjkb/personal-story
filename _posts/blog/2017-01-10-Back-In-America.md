@@ -29,3 +29,6 @@ Although I would've preferred having a room all by myself, sharing the room with
 The check-in and the orientation sessions are scheduled to happen during the next two days. I also need to speak with my faculty advisor to discuss on my study plans for the master's degree.
 
 La Posada isn't open yet, so for a couple of days I'll have to rely on stores off campus to get food. Speaking of which, I'm kind of hungry now and I think I'll go grab something to eat.
+
+<a class="muut" href="https://muut.com/i/pointblank/comments" type="dynamic">pointblank</a>
+<script src="//cdn.muut.com/1/moot.min.js"></script>

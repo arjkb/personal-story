@@ -32,3 +32,6 @@ Even the elevators back home have a button marked “G” that takes you to the 
 So every time somebody said something is on the first floor, I used to absentmindedly climb up the stairs, and find myself in the Indian version of the first floor (which is actually the “second floor” in America)! And then I’ll have to climb down the stairs.
 
 *On a lighter note, I wonder what they really mean when they claim things like "the [Willis Tower](https://en.wikipedia.org/wiki/Willis_Tower){:target="_blank_"} has 108 floors"!*
+
+<a class="muut" href="https://muut.com/i/pointblank/comments" type="dynamic">pointblank</a>
+<script src="//cdn.muut.com/1/moot.min.js"></script>

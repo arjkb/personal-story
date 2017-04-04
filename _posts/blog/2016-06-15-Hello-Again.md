@@ -19,3 +19,6 @@ In either case, blogging through Jekyll seemed like the sort of thing I wanted t
 [Medium](https://medium.com/) is pretty fantastic too in that it provides a clean experience. But then again, it too doesn't quite give me the total control that I'd like (however, given its clean interface, you really don't need all that control over the really finer details only programmers know how to mess around with).
 
 Hope you enjoy this blog. *Happy reading!*
+
+<a class="muut" href="https://muut.com/i/pointblank/comments" type="dynamic">pointblank</a>
+<script src="//cdn.muut.com/1/moot.min.js"></script>
