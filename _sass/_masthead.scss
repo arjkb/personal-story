@@ -55,6 +55,7 @@
 
 .site-title {
   margin-bottom: 0;
+  font-family: source-sans-pro, sans-serif;
   @include animation-duration(1s);
     @include animation-delay(.75s);
   a {
