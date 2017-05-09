@@ -15,11 +15,11 @@
 # - title: Blog
 #   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Stuff
-  url: /stuff/
+# - title: Theme Setup
+#   url: /theme-setup/
+#
+# - title: Stuff
+#   url: /stuff/
 
 - title: Search
   url: /search/
