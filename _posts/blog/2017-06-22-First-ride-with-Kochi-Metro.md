@@ -14,15 +14,11 @@ I remember how the metro has progressed over the years. First it was the pillars
 
 Speaking of which, all the pillars of the metro are numbered consecutively. People have started using the numbers of pillars as identifiers ("Make a U-turn at pillar #50").
 
-As is the case when anything big is launched in the city, there were good reasons to expect huge crowds at least in the initial few weeks. Same thing happened with the Lulu Mall, as well as the new terminal T3 of Cochin International Airport.
+As is typical when anything big is launched in the city, there were good reasons to expect huge crowds at least in the initial few weeks. Same thing happened with the Lulu Mall, and same thing happened with T3 of Cochin International Airport.
 
-Because of this very reason, I had zero plans to try out the metro anytime soon. However, it so happened that as we were returning home from a trip to the airport, it was past 6:30 pm and there were much less people around owing to the fact that an entire community had gone home to break their day-long fast. This was too good an opportunity.
+Because of this very reason, I had zero plans to try out the metro anytime soon. However, it so happened that as we were driving back home from a trip to the airport, it was past 6:30 pm, and there were much less people around owing to the fact that an entire community had gone home to break their day-long fast. Opportunity never has to knock twice at my door.
 
-And so, we parked our car near Aluva metro station, and went inside
-
-The metro station is neat and well maintained. And the sign-boards for the directions are well marked. It didn't take long for us to find the ticket counter.
-
-Let's cut the chase and dive straight in.
+And that's how it happened. My first ride in the Kochi metro. Let's cut the chase and dive straight in.
 
 * The metro currently runs from Aluva to Palarivatom, and back.
 * Once the metro is fully built, it'll run all the way to Petta, covering all the busiest roads and intersections across Kochi.
