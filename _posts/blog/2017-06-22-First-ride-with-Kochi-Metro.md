@@ -2,7 +2,7 @@
 layout: post
 title: First ride with Kochi Metro
 excerpt: Kochi Metro was launched last week amidst much fanfare and ruckus. Here's how my first ride went.
-tags: tag1, tag2
+tags: Kochi Metro city train tickets FirstRide
 ---
 
 How the Kochi metro feels like
