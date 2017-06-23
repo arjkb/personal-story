@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First ride with Kochi Metro
-excerpt: Your excerpt goes here
+excerpt: Kochi Metro was launched last week amidst much fanfare and ruckus. Here's how my first ride went.
 tags: tag1, tag2
 ---
 
