@@ -48,6 +48,8 @@ The metro is apparently a huge success, and will definitely be useful to the vas
 
 The culture of the people of Kochi is also likely to change for the better. Certain old habits -- like writing on the walls of trains -- aren't allowed.
 
+Looking forward to the day when the entire metro will be completed. Kudos to the entire team behind Kochi metro!
+
 #### Related Links
 
 1. [Wikipedia: Kochi Metro](https://en.wikipedia.org/wiki/Kochi_Metro)
