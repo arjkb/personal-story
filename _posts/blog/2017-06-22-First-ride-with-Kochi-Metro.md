@@ -6,6 +6,8 @@ tags: Kochi Metro city train tickets FirstRide
 ---
 [Kochi metro rail](https://kochimetro.org/) was launched last week amidst much fanfare and ruckus. If there's anything the people of Kochi have waited forever for, it's the Kochi metro.
 
+![Metro Approaching]({{ site.url }}/assets/images/metro_rail/metro_approaching.jpg)
+
 I remember how the metro has progressed over the years. First the pillars, then the connections between the pillars, metro stations, trial runs etc. Hah.. I recall my friend Akhil mentioning to me back in freshman year that two pillars have been connected near Ernakulam North (this was the first time two pillars were connected by those "bridges"). That was back in late 2013.
 
 Speaking of which, all the pillars of the metro are numbered consecutively. People have started using the number on those pillars as identifiers ("Make a U-turn at pillar #50").
@@ -27,7 +29,7 @@ And that's how it happened. My first ride in the Kochi metro. Let me cut the cha
 9. You can't buy return tickets from another station in advance.
 10. Fares from every station to every other station is displayed on a chart at Aluva station. This chart probably exists in every station, but I have not confirmed this.
 11. Ticket fare from Aluva to Palarivattom -- the longest you can travel at the moment -- is Rs. 40 per person. Though more expensive than a bus, the metro is faster, safer, and is air-conditioned.
-12. All sign-boards are clearly marked in Malayalam, English, and Hindi.
+12. All sign-boards are clearly written in Malayalam and English. The really crucial ones are written in Hindi as well.
 13. At Aluva, the sign-board on the platform that indicates the direction of train travel says "Towards Petta" rather than "Towards Palarivattom". Left me momentarily confused.
 14. There are official staff all around to guide you if you get confused.
 15. Your luggage will be scanned. The sort of thing that you see at airports. Cops do your body-scan using a metal detector. The whole procedure is quick.
@@ -39,12 +41,15 @@ And that's how it happened. My first ride in the Kochi metro. Let me cut the cha
 21. The trip from Palarivattom to Aluva takes approximately 23 minutes. The same journey by road in rush-hour traffic would take over an hour.
 22. Travel time between any two consecutive stations is at most a minute or two.
 23. The train stops for less than a minute at most stations.
+![Metro Outside Closed]({{ site.url }}/assets/images/metro_rail/metro_out_closed.jpg)
 24. Multiple USB charging ports are present across the cabin to charge your smartphones.
 25. The floor of the train had a noticeable amount of dust, coming from the footwear of people's shoes. It remains to be seen how clean the metro will be in the long run.
 26. Eating is forbidden inside the train.
 27. People were scrambling to take selfies and photographs the moment they hopped onto the train. Simple pleasures of life!
 
 The metro is apparently a huge success, and will definitely be useful to the vast majority of commuters and college students across the city. Once the metro has been fully developed, I can see it becoming the lifeline of this city.
+
+![Metro Inside]({{ site.url }}/assets/images/metro_rail/metro_inside.jpg)
 
 The culture of the people of Kochi is also likely to change for the better. Certain old habits -- like writing on the walls of trains -- aren't allowed.
 
