@@ -10,9 +10,9 @@ It's now spring break at UNM -- a week long holiday (10 days in my specific case
 
 Google maps revealed a vegetarian restaurant -- Annapurna -- located half a mile from Santa Clara Hall (where I live). I don't exactly know if this restaurant is Indian, but I'm tempted to think that way. At the very least, "Annapurna" is an Indian name. It was an Indian friend of mine who first mentioned this place to me, but I have never actually been there.
 
-I decided to have breakfast from this place today. A vegetarian meal will be a welcome change from the usual chicken/fish/beef/pork/turkey/bacon that I usually eat from LaPo.
+I decided to have breakfast from this place today. A vegetarian meal will be a welcome change from the usual chicken/fish/beef/pork/turkey/bacon that I eat from LaPo.
 
-It was a brisk 15 minute walk under the broken clouds. The erstwhile leafless trees were now sprouting leaves. Temperatures touched nearly 20 &deg;C during midday for the last couple of days. Spring has finally arrived.
+It was a brisk 15 minute walk under the broken clouds. The erstwhile leafless trees were now sprouting leaves. Temperatures touched nearly 20 &deg;C during midday for the last couple of days. *Spring.*
 
 A pleasant girl in her 20s welcomed me in and handed me [their menu.](http://www.chaishoppe.com/images/menu/2016_Annapurna_Menu.pdf "2016_Annapurna_Menu.pdf"){:target="_blank_"} Her name is Natalie and -- doubling up as the cashier as well as the waiter -- she was the sole person interacting with the customers. It took me a while to make sense of the menu. Despite being an Indian in a supposedly Indian restaurant, most dishes were unfamiliar to me. However, I did manage to find *masala dosa* and ordered it along with white tea.
 
@@ -30,15 +30,15 @@ All the employees in the restaurant were Americans. So this is not exactly an au
 
 "Do you like your tea?" Natalie asked me after sometime.
 
-"Yep it's good :)" I replied. Though customer is the king here in America, I didn't want to upset her right in the morning. At the very least, the tea which I was sipping had some sort of medicinal value. And, as I would later discover, the traditional tea that you get in India is called "authentic chai".
+"Yep it's good :)" I lied. I didn't want to upset her right in the morning. At the very least, the tea I was sipping had some sort of medicinal value. And, as I would later discover, the traditional tea that you get in India is called "authentic chai".
 
 The masala dosa finally arrived after about five minutes. It looks different from the one you get in India. However, it was delicious! And my mouth still waters when I think about the spicy *chutney* that was served along!
 
 The masala contained a variety of different vegetables, and not just potatoes like we get back in India.
 
-After the meal I was feeling refreshed, recharged, and energetic; contrary to what I normally feel after a non-vegetarian breakfast.
+After the meal I felt refreshed, recharged, and energetic; contrary to what I normally feel after a non-vegetarian breakfast.
 
-Overall, this was easily the best masala dosa I have tried in a long while, and I left the restaurant satisfied, having mastered the art of eating dosa with a spoon and a fork!
+Overall, this was easily the best masala dosa I've had in a long while, and I left the restaurant satisfied, having mastered the art of eating dosa with a spoon and a fork!
 
 I recommend this place to anyone who wants to taste the magic of Indian food.
 
