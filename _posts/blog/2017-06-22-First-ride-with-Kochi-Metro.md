@@ -12,7 +12,7 @@ I remember how the metro has progressed over the years. First the pillars, then 
 
 Speaking of which, all the pillars of the metro are numbered consecutively. People have started using the number on those pillars as identifiers ("Make a U-turn at pillar #50").
 
-There were good reasons to expect huge crowds at least in the initial few weeks. Same thing happened with the Lulu Mall, and same thing happened with T3 of Cochin International Airport. Typical when anything big is launched in the city. Because of this reason, I had zero plans to try out the metro anytime soon.
+As was the case with the [Lulu Mall](https://en.wikipedia.org/wiki/LuLu_International_Shopping_Mall) and T3 of [Cochin International Airport](https://en.wikipedia.org/wiki/Cochin_International_Airport), there were good reasons to expect huge crowds at least in the initial few weeks. Typical when anything big is launched in the city. Because of this reason, I had zero plans to try out the metro anytime soon.
 
 However, it so happened that as we were driving back home from a trip to the airport, it was past 6:30 pm, and there were much less people around owing to the fact that an entire community had gone home to break their day-long fast. This was opportunity banging at my door.
 
