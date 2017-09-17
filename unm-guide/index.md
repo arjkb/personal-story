@@ -28,7 +28,7 @@ Your academic experience here would depend on your area of study. I'm a CS guy, 
 
 UNM has an [online catalog](http://catalog.unm.edu/catalogs/2017-2018/) of all its courses, along with a small course description and the number of credits for that course. You might want to check it out. (Google "unm catalog" or something).
 
-Once all your paperwork is done and you're actually admitted into UNM, that's when you would want to register for the classes. You can do it online through a mechanism similar to [AUMS](https://www.amrita.edu/aums). There are limited seats for all courses, and the seats do fill up quickly. Ensure that you do not delay the registration if you wish to get into your preferred courses.
+Once all your paperwork is done and you're actually admitted into UNM, that's when you would want to register for the classes. You can do it online through a mechanism similar to [AUMS](https://www.amrita.edu/aums). There are limited seats for all courses, and the seats fill up quickly. Ensure that you do not delay the registration if you wish to get into your preferred courses.
 
 A course here has typically 3 credits. There are US government rules (not UNM rules) regarding the minimum number of credits international students must register for. The last time I checked (please re-check!), it was:
 
@@ -50,7 +50,7 @@ For most courses, there will be lectures twice or thrice a week, and each lectur
 
 The upside of blazing through these assignments is that you'll have an easier time on the actual tests. Sure you're going to have to study and really understand the material at hand, but once you do that then you will *usually* be able to score well.
 
-Teachers are very helpful, and they would answer your questions candidly. Take advantage of their office hours to understand the material at hand.
+Teachers are very helpful, and they would answer your questions candidly. Take advantage of their office hours to understand the material.
 
 The [libraries on campus](http://library.unm.edu/) are huge with over 3 million books. However, your prescribed textbooks would most likely not be in the library!
 
@@ -60,24 +60,25 @@ There are multiple ways to obtain textbooks:
 * Purchase them online through Amazon.
 * Rent your textbooks; you pay less than the actual price of the book, but you'll have to return the book at the end of the semester. (And no, you don't get your money back).
 
-Textbooks are expensive. Price of a new textbook can range anywhere between $20 and $200. I recommend purchasing used textbooks; they are usually of very high-quality, with the binding and pages intact. You can buy used books from Amazon or UNM Bookstore.
+Textbooks are expensive. Price of a new textbook can range anywhere between $20 and $200. I recommend purchasing used textbooks; they are usually of high-quality, with the binding and pages intact. You can buy used books from Amazon or UNM Bookstore.
 
-UNM Bookstore is located right next to the campus. You'll find your textbooks there  if the instructor for your course has requested it beforehand. You can buy a bunch of other items too, including stationery, UNM branded clothing and accessories, certain electronic gadgets etc. The bookstore sometimes offer buy-backs books at the end of the semester; you can use this opportunity to recover part of your investment in textbooks.
+UNM Bookstore is located right next to the campus. You'll find your textbooks there  if the instructor for your course has requested it beforehand. You can buy a bunch of other items too, including stationery, UNM branded clothing and accessories, certain electronic gadgets etc. The bookstore sometimes offer buy-backs at the end of the semester; you can use this opportunity to recover part of your investment in textbooks.
 
 
 ### Accomodation
 You can either choose to live on-campus or off-campus. I chose to live on-campus because of the safety, security, and convenience it offers. Living off-campus is usually cheaper.
 
-If you choose to live on campus, you'll have to register on their [official website](https://housing.unm.edu) beforehand and make advance payment. "Hostels" in UNM are actually called "residence halls" (you don't say "hostel" in UNM). There are several halls to choose from, all with different number of roommates and amenities. You can get details different types of rooms and their prices at the [UNM Housing website](https://housing.unm.edu).
+If you choose to live on campus, you'll have to register on their [official website](https://housing.unm.edu) beforehand and make advance payment. "Hostels" in UNM are called "residence halls" (you don't say "hostel" in UNM). There are several halls to choose from, each with different number of roommates and amenities. You can find details of different types of rooms including the room-rent at the [UNM housing website](https://housing.unm.edu).
 
 The rooms on campus are neat and clean. You get a bed, a cot, a desk with lockable drawer, a chair, and adequate shelves to store your things. You have to bring your own bedsheets, blankets, pillows etc.
 
-Bathrooms weren't attached in the hall that I chose. But there are other halls that offer bathroom, sink, and perhaps even a small kitchen. You pay more, you get more.
+Bathrooms weren't attached in the hall that I chose. But there are other halls that offer attached bathroom, sink, and perhaps even a small kitchen. You pay more, you get more.
 
-You also get a free mailbox -- a lockable box into which your mails arrive. Can be handy if you're going to send or receive mails by post. Helps if you are going to buy stuff from Amazon or places like that. And besides, you would need some sort of address before you can, say, start a bank account (if you plan to start a bank account).
+You also get a free mailbox -- a lockable box into which your mails arrive. Can be handy if you're going to send or receive mails by post. Helps if you are going to buy stuff from Amazon or places like that. And besides, you would need some sort of address before you can, say, start a bank account.
 
 Laundry facility is included. There are common washing-machines and dryers. Takes about 30 minutes to wash and 45 minutes to dry.
 
+*And did I mention there's free WiFi everywhere on campus?*
 
 ### Food
 
@@ -85,7 +86,7 @@ Food is NOT included with the accommodation. You'll have to pay extra if you wis
 
 I assume you are not vegetarian.
 
-There are several different places inside the campus where you'll get food. Some offer just coffee or drinks, some offer sandwiches, and some offer cuisine from around the world.
+There are multiple food outlets inside campus. Some offer just coffee or drinks, some offer sandwiches, and some offer cuisine from around the world.
 
 The major dining hall inside the campus is called 'La Posada' ("LaPo" in short). LaPo is open 24 hours a day, 7 days a week. And you get different types of predominantly non-vegetarian cuisine.
 
@@ -99,16 +100,14 @@ You can find information about food tariffs [here](http://lobocard.unm.edu/Dinin
 
 The meal plan is applicable only for LaPo. You'd have to pay out of your own pocket to eat at other restaurants within the campus.
 
-Or, instead of choosing a meal plan, you could consider cooking your own food. Get a room with a kitchen, and cook your own food. Plan well and the money you save on the meal-plan would offset the higher rent of a room with kitchen. Having said that, engineering students at UNM usually has little time for activities like cooking.
-
-*And did I mention there's free WiFi everywhere on campus?*
+Or, instead of choosing a meal plan, you could live in a room with a kitchen and cook your own food. Plan well and the money you save on the meal-plan would offset the higher rent of a room with kitchen. Having said that, engineering students at UNM usually has little time for activities like cooking.
 
 
 ### Life in Albuquerque
 
 UNM is located in this town called Albuquerque, which is one of the largest cities in the state of New Mexico. It is not mighty large. I would say it is smaller than Bangalore. Perhaps it is comparable to Kochi, Kerala.
 
-Though the town is relatively small, it has all the amenities you are going to need. Bus rides within the city is free for UNM students; to avail this facility, you need to get a particular sticker stuck onto your ID. You can get more information on that once you're here.
+Though the town is relatively small, it has all the amenities you need. Bus rides within the city is free for UNM students; to avail this facility, you need to get a particular sticker stuck onto your ID. You can get more information on that once you're here.
 
 You could also make use of Uber for transportation within the city.
 
@@ -122,23 +121,21 @@ There are plenty of restaurants in the city. Even a couple of Indian restaurants
 
 A coffee is between $2 and $5. And you would inevitably end up drinking a lot of those 😉.
 
-There are several shopping malls here.  
-
-Your international friends on campus would tell you a lot more places to go sight-seeing!
+And there are plenty of places to go sight-seeing with your international friends!
 
 Albuquerque has its own airport located about 10 minutes away from UNM. If you wish to travel to far-away places like New York City or San Francisco, you can fly on an airplane. Or, I heard there's a train to San Francisco.
 
 ### Visa
 
-You're going to need some type of student visa. The exact visa you need will be mentioned on the documentations that you receive from UNM. It'll most likely be something called "F1 visa" (or J1 if you're an exchange student).
+You're going to need some type of student visa. The exact visa you need will be mentioned on the documents you receive from UNM. It'll most likely be an F1 visa (or J1 if you're an exchange student).
 
 Once you get the documentations from UNM, you would have to log in to a US govt website and make an appointment with your nearest US Consulate in India. Since I'm from Kerala, the nearest one for me was the US Consulate in Chennai. But there are US Consulates in other cities as well.
 
-The visa interview is a two-day process -- on the day 1, they take your photograph and fingerprint. And on day 2, there's an actual interview with an American consular officer. You'll have to make appointments for both these things, and it's best if you choose consecutive days for it (you can't do both on a single day, as far as I know).
+The visa interview is a two-day process -- on day 1, they take your photograph and fingerprints. And on day 2, there's an actual interview with an American consular officer. You'll have to make appointments for both these things, and it's best if you choose consecutive days for it (you can't do both on a single day, as far as I know).
 
 Don't believe any of the horror stories other people tell you about visa interviews. Answer truthfully any questions they ask you, and you'll be fine. The consular officers were very friendly to me, and I had no trouble at all getting a visa.
 
-There's a fee for the visa-application, which you pay online. I strongly recommend applying for the visa directly, instead of dealing any middlemen or agencies.
+There's a fee for the visa-application, which you pay online. I strongly recommend applying for the visa directly, instead of dealing with any middlemen or agencies.
 
 ---
 
