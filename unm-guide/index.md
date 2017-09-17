@@ -126,7 +126,7 @@ There are several shopping malls here.
 
 Your international friends on campus would tell you a lot more places to go sight-seeing!
 
-Albuquerque has it's own airport located about 10 minutes away from UNM. If you wish to travel to far-away places like New York City or San Francisco, you can fly on an airplane. Or, I heard there's a train to San Francisco.
+Albuquerque has its own airport located about 10 minutes away from UNM. If you wish to travel to far-away places like New York City or San Francisco, you can fly on an airplane. Or, I heard there's a train to San Francisco.
 
 ### Visa
 
