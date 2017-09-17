@@ -10,7 +10,7 @@ image:
 ---
 *An unofficial guide for Amrita students planning to study at UNM.*
 
-First up, congratulations on being admitted to UNM!
+First up, congratulations on being admitted to the University of New Mexico!
 
 I've been an undergrad exchange student at UNM during Spring 2016, and I'm currenly in the CS Master's program at UNM.  
 
@@ -141,5 +141,7 @@ Don't believe any of the horror stories other people tell you about visa intervi
 There's a fee for the visa-application, which you pay online. I strongly recommend applying for the visa directly, instead of dealing any middlemen or agencies.
 
 ---
+
+The [Global Education Office](http://geo.unm.edu/) (GEO) at UNM handles all things related to international students. Check with them for accurate and up-to-date information.
 
 I guess that's just about it. I hope you have a great time at UNM! Good luck!
