@@ -17,7 +17,7 @@ I've been an undergrad exchange student at UNM during Spring 2016, and I'm curre
 Table of contents:
 
 1. [Academics](#academics)
-2. [Accomodation](#accomodation)
+2. [Accommodation](#accommodation)
 3. [Food](#food)
 4. [Life in Albuquerque](#life-in-albuquerque)
 5. [Visa](#visa)
@@ -65,7 +65,7 @@ Textbooks are expensive. Price of a new textbook can range anywhere between $20 
 UNM Bookstore is located right next to the campus. You'll find your textbooks there  if the instructor for your course has requested it beforehand. You can buy a bunch of other items too, including stationery, UNM branded clothing and accessories, certain electronic gadgets etc. The bookstore sometimes offer buy-backs at the end of the semester; you can use this opportunity to recover part of your investment in textbooks.
 
 
-### Accomodation
+### Accommodation
 You can either choose to live on-campus or off-campus. I chose to live on-campus because of the safety, security, and convenience it offers. Living off-campus is usually cheaper.
 
 If you choose to live on campus, you'll have to register on their [official website](https://housing.unm.edu) beforehand and make advance payment. "Hostels" in UNM are called "residence halls" (you don't say "hostel" in UNM). There are several halls to choose from, each with different number of roommates and amenities. You can find details of different types of rooms including the room-rent at the [UNM housing website](https://housing.unm.edu).
