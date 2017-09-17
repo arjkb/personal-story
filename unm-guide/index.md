@@ -8,7 +8,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-*An unofficial guide for Amrita students planning to study at UNM.*
+(An unofficial guide for students from [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/) planning to study at UNM).
 
 First up, congratulations on being admitted to the University of New Mexico!
 
