@@ -122,7 +122,6 @@ Or, instead of choosing a meal plan, you could consider cooking your own food. G
 ##### Useful Links
 1. UNM Dine On Campus [https://www.dineoncampus.com/unm/](https://www.dineoncampus.com/unm/)
 2. [Meal plan information for 2017-2018.](http://lobocard.unm.edu/Dining-club-plans/meal-plans-2017-2018.html)
-3.
 
 
 ### Life in Albuquerque
