@@ -8,13 +8,13 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-*An unofficial guide for Amrita students planning to study at UNM.*
+(An unofficial guide for students from [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/) planning to study at UNM).
 
-First up, congratulations on being admitted to UNM!
+If you've been admitted to UNM, congratulations!
 
-I was an undergrad exchange student at UNM during Spring 2016, and I'm currenly in the CS Master's program at UNM.
+I was an undergrad exchange student at UNM during Spring 2016, and I'm currenly in their CS Master's program.
 
-I plan to maintain this as a living document at least until I graduate from UNM.
+I plan to maintain this article as a living document at least until I graduate from UNM.
 
 ---  
 
@@ -171,6 +171,6 @@ There's a fee for the visa-application, which you pay online. I strongly recomme
 
 ---
 
-The [Global Education Office (GEO)](http://geo.unm.edu/) at UNM handles all things related to international students. Check with them for accurate information and resources. 
+The [Global Education Office (GEO)](http://geo.unm.edu/) at UNM handles all things related to international students. Check with them for accurate information and resources.
 
 I guess that's just about it. I hope you have a great time at UNM! Good luck!
