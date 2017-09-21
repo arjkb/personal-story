@@ -12,7 +12,11 @@ image:
 
 First up, congratulations on being admitted to UNM!
 
-I was an undergrad exchange student at UNM during Spring 2016, and I'm currenly in the CS Master's program at UNM.  
+I was an undergrad exchange student at UNM during Spring 2016, and I'm currenly in the CS Master's program at UNM.
+
+I plan to maintain this as a living document at least until I graduate from UNM.
+
+---  
 
 **Table of Contents**
 
@@ -26,21 +30,21 @@ I was an undergrad exchange student at UNM during Spring 2016, and I'm currenly 
 
 Your academic experience here would depend on your area of study. I'm a CS guy, and I can only say things from a CS student's perspective.
 
-UNM has an [online catalog](http://catalog.unm.edu/catalogs/2017-2018/) of all its courses that displays the course number, name, description, number of credits, and pre-requisites if any. You might want to check it out. (Google "unm catalog" or something).
+UNM has an [online catalog](http://catalog.unm.edu/catalogs/2017-2018/) of all its courses that displays the course number, name, description, number of credits, and pre-requisites if any. Check it out (Google "unm catalog" or something).
 
-Once all your paperwork is done and you're actually admitted into UNM, that's when should register for the classes. You can do it online through a mechanism similar to [AUMS](https://www.amrita.edu/aums). There are limited seats for all courses, and the seats do fill up quickly. Ensure that you do not delay the registration if you wish to get into your preferred courses. Keep in mind that certain category of students get the opportunity to register earlier than certain other categories of students. For instance, grad student can register earlier than undergrads.
+Once all your paperwork is done and you're actually admitted into UNM, that's when you should register for classes. You do it online through a mechanism similar to [AUMS](https://www.amrita.edu/aums). Seats are limited for all courses, and the seats fill up quickly. Do not delay the registration if you wish to get into your preferred courses. Keep in mind that certain category of students get the opportunity to register earlier than certain other categories of students. For instance, grad students can register earlier than undergrads.
 
-A course here has typically 3 credits. U.S. government rules (not UNM rules) stipulate the minimum number of credits international students must register for each semester. The last time I checked (please re-check!), it was:
+A course here typically has 3 credits. U.S. government rules (not UNM rules) stipulate the minimum number of credits international students must register for each semester. The last time I checked (please re-check!), it was:
 
 1. 12 credits for international undergrad exchange students.
 2. 9 credits for international grad students.
 3. 6 credits for international grad students who are a TA or an RA.
 
-"Grad" means the same thing as "postgraduate" in India.
+"Grad" is the same thing as "postgraduate" in India.
 
 Be forewarned: those 9 credits require a lot more work than 30 credits per sem' in Amrita!
 
-You'll have to do a bit of homework first before registering, though. Timings for certain classes clash with each other. You've to choose the classes such that none of them clash with each other.
+You have to do a bit of homework before you register. Timings for certain classes clash with each other. You've to choose the classes such that none of them are at the same time.
 
 After the classes start, if a subject is too tough for you to handle, you can drop that subject and register for another one. (You can do this within the first couple of weeks after the start of classes. You'll have to check on that).
 
@@ -107,17 +111,17 @@ There are several different places inside the campus where you'll get food. Some
 
 The major dining hall inside the campus is called 'La Posada' ("LaPo" in short). LaPo is open 24 hours a day, 7 days a week. You get different types of predominantly non-vegetarian cuisine.
 
-Now, I'm not crazy about food, so I was able to manage just fine. However, if you are a foodie or a vegetarian, then perhaps you might want to consider other options.
-
-There are several different meal plans. The food you get for the different plans is the same; the difference lies in the number of time a day and the number of days you could go in there. You'll have to pay upfront at the beginning of the semester if you wish to get food from LaPo.
+You'll have to pay upfront at the beginning of the semester if you wish to get food from LaPo. There are several different meal plans. The food you get for the different plans is the same; the difference is in the number of times a day and the number of days a week you could go in there.
 
 I chose an unlimited plan -- I can go there all 7 days of the week and as many times a day as I want. For this particular plan, I paid $1950 for the whole semester.
 
+The meal plan is applicable only for LaPo. You have to pay out of your own pocket to eat at other food outlets within the campus.
+
 You can find information about food tariffs [here](http://lobocard.unm.edu/Dining-club-plans/meal-plans-2017-2018.html).
 
-The meal plan is applicable only for LaPo. You'd have to pay out of your own pocket to eat at other food outlets within the campus.
+Now, I'm not crazy about food, so I was able to manage just fine. However, if you are a foodie or a vegetarian, perhaps you might want to consider other options.
 
-Or, instead of choosing a meal plan, you could consider cooking your own food. Get a room with a kitchen, and cook your own food. Plan well and the money you save on the meal-plan would offset the higher rent of a room with kitchen.
+Instead of choosing a meal plan, you could cook your own food. Get a room with a kitchen. Plan well and the money you save on the meal-plan would offset the higher rent of a room with kitchen.
 
 ##### Useful Links
 1. UNM Dine On Campus [https://www.dineoncampus.com/unm/](https://www.dineoncampus.com/unm/)
@@ -134,15 +138,15 @@ You could also make use of Uber for transportation within the city.
 
 It is pretty cold during the winter. In January temperatures go well below 0&deg;C degrees at night and upto about 10&deg;C during the day. (Take a walk early in the morning, and you could see the small lakes and ponds frozen into ice. I'm not exaggerating).
 
-Heaters are provided in all rooms so you won't have a problem indoors, but you're going to need multiple layers of clothing when stepping out.
+Heaters are provided in all rooms so you won't have a problem indoors. But you're going to need multiple layers of clothing when stepping out. I recommend thermals, sweaters, a think jacket(s), and a thick jacket capable of widthstanding rain and snow.
 
 It's pretty warm during the summer and fall; approximately between 18&deg;C to 30&deg;C.  
 
 There are plenty of restaurants in the city. Even a couple of Indian restaurants where the food is good in my opinion. A decent meal usually costs between $8 and $20. Restaurants here tend to expect a tip, like around 30% of the bill. You don't have to tip if you don't want to. They're aware that international students are usually on a tight budget.
 
-A coffee is between $2 and $5. And you would inevitably end up drinking a lot of those 😉.
+A coffee is between $2 and $5. You would inevitably end up drinking a lot of those 😉.
 
-There are several shopping malls here.  
+There are several shopping malls in Albuquerque.  
 
 Your international friends on campus would tell you about a lot more places to go sight-seeing!
 
@@ -150,16 +154,23 @@ Albuquerque has it's own airport located about 10 minutes away from UNM. If you 
 
 ### Visa
 
-You're going to need some type of student visa. The exact visa you need will be mentioned on the documentations that you receive from UNM. It'll most likely be something called "F1 visa" (or J1 if you're an exchange student).
+You need some type of student visa. The exact visa you need will be mentioned on the documents that you receive from UNM. It'll most likely be something called "F1 visa" (or J1 if you're coming on an exchange program).
 
-Once you get the documentations from UNM, you would have to log in to a US govt website and make an appointment with your nearest US Consulate in India. Since I'm from Kerala, the nearest one for me was the US Consulate in Chennai. But there are US Consulates in other cities as well.
+Once you get the documents from UNM, apply for your visa; log in to the official U.S. govt. website and make an appointment with your nearest U.S. Consulate in India. Since I'm from Kerala, the nearest one for me was the U.S. Consulate in Chennai. There are U.S. Consulates in other cities as well.
 
-The visa interview is a two-day process -- on the day 1, they take your photograph and fingerprint. And on day 2, there's an actual interview with an American consular officer. You'll have to make appointments for both these things, and it's best if you choose consecutive days for it (you can't do both on a single day, as far as I know).
+The visa interview is a two-day process:
 
-Don't believe any of the horror stories other people tell you about visa interviews. Answer truthfully any questions they ask you, and you'll be fine. The consular officers were very friendly to me, and I had no trouble at all getting a visa.
+* Day 1 -- they take your photograph and fingerprints.
+* Day 2 -- an actual interview with an American consular officer.
 
-There's a fee for the visa-application, which you pay online. I strongly recommend applying for the visa directly, instead of dealing any middlemen or agencies.
+You have to make appointments for both these things, and it's best if you choose consecutive days for it (you can't do both on a single day, as far as I know).
+
+Don't believe any horror stories other people tell you about visa interviews. Answer truthfully any questions they ask you, and you'll be fine. The consular officers were very friendly to me, and I had no trouble at all getting a visa.
+
+There's a fee for the visa-application, which you pay online. I strongly recommend applying for the visa directly, instead of dealing with any middlemen or agencies.
 
 ---
+
+The [Global Education Office (GEO)](http://geo.unm.edu/) at UNM handles all things related to international students. Check with them for accurate information and resources. 
 
 I guess that's just about it. I hope you have a great time at UNM! Good luck!
