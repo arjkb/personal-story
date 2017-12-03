@@ -4,7 +4,7 @@ title: Reading List
 excerpt: "List of books I love"
 ---
 
-## Books I've Read
+### Books I've Read
 
 This is not a complete list. I don't exactly remember all those books I've read over the years. I'll add to this list when I remember more.
 
@@ -35,7 +35,7 @@ Click on any title to visit the Amazon page for that title.
 |21|[Harry Potter Series](http://a.co/3ydv73a){:target='_blank'}|J. K. Rowling|
 
 
-## Wish List
+### Wish List
 
 |#|Title|Author|
 |:---|:---|:---|
