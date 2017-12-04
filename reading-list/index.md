@@ -4,35 +4,30 @@ title: Reading List
 excerpt: "List of books I love"
 ---
 
-### Books I've Read
-
-This is not a complete list. I don't exactly remember all those books I've read over the years. I'll add to this list when I remember more.
-
-Click on any title to visit the Amazon page for that title.
+### Favorites
 
 |#|Title|Author|
 |:---|:---|:---|
-|1|[The Kite Runner](http://a.co/3WRFolt){:target='_blank'}|Khaled Hosseini|
-|2|[A Thousand Splendid Suns](http://a.co/2l7ETiG){:target='_blank'}|Khaled Hosseini|
-|3|[And The Mountains Echoed](http://a.co/8bWBtDq){:target='_blank'}|Khaled Hosseini|
-|4|[The Da Vinci Code](http://a.co/gYa6CMs){:target='_blank'}|Dan Brown|
-|5|[The Hound of The Baskervilles](http://a.co/bzPZB2i){:target='_blank'}|Sir Arthur Conan Doyle|
-|6|[The Thirty Nine Steps](http://a.co/5DijlbF){:target='_blank'}|John Buchan|
-|7|[Almost Home](http://a.co/iynQb16){:target='_blank'}|Pam Jenoff|
+|1|[A Thousand Splendid Suns](http://a.co/2l7ETiG){:target='_blank'}|Khaled Hosseini|
+|2|[And The Mountains Echoed](http://a.co/8bWBtDq){:target='_blank'}|Khaled Hosseini|
+|3|[The Kite Runner](http://a.co/3WRFolt){:target='_blank'}|Khaled Hosseini|
+|4|[The Idea Factory](http://a.co/ioE8CsV){:target='_blank'}|Pepper White|
+|5|[The Da Vinci Code](http://a.co/gYa6CMs){:target='_blank'}|Dan Brown|
+|6|[The Hound of The Baskervilles](http://a.co/bzPZB2i){:target='_blank'}|Sir Arthur Conan Doyle|
+|7|[The Testament](http://a.co/1sOjiAj){:target='_blank'}|John Grisham|
 |8|[Steve Jobs](http://a.co/79fkAIg){:target='_blank'}|Walter Issacson|
-|9|[Paths of Glory](http://a.co/2CGLaiQ){:target='_blank'}|Jeffrey Archer|
-|10|[Coma](http://a.co/gMQsUgv){:target='_blank'}|Robin Cook|
-|11|[Seizure](http://a.co/aQFxBzh){:target='_blank'}|Robin Cook|
+|9|[The Thirty Nine Steps](http://a.co/5DijlbF){:target='_blank'}|John Buchan|
+|10|[Paths of Glory](http://a.co/2CGLaiQ){:target='_blank'}|Jeffrey Archer|
+|11|[Coma](http://a.co/gMQsUgv){:target='_blank'}|Robin Cook|
 |12|[Contagion](http://a.co/aYlJZY2){:target='_blank'}|Robin Cook|
-|13|[Bloodline](http://a.co/66tFw3w){:target='_blank'}|Sidney Sheldon|
-|14|[The Testament](http://a.co/1sOjiAj){:target='_blank'}|John Grisham|
+|13|[Seizure](http://a.co/aQFxBzh){:target='_blank'}|Robin Cook|
+|14|[Bloodline](http://a.co/66tFw3w){:target='_blank'}|Sidney Sheldon|
 |15|[Five Point Someone](http://a.co/2w8bGEC){:target='_blank'}|Chetan Bhagat|
-|16|[Two States](http://a.co/cxDadtg){:target='_blank'}|Chetan Bhagat|
-|17|[Revolution Twenty20](http://a.co/3kVG1z3){:target='_blank'}|Chetan Bhagat|
-|18|[Half Girlfriend](http://a.co/bgJ6tsl){:target='_blank'}|Chetan Bhagat|
-|19|[The 3 Mistakes of My Life](http://a.co/dxlfuTJ){:target='_blank'}|Chetan Bhagat|
-|20|[Imperial 109](http://a.co/cvRoERT){:target='_blank'}|Richard Doyle|
-|21|[Harry Potter Series](http://a.co/3ydv73a){:target='_blank'}|J. K. Rowling|
+|16|[Revolution Twenty20](http://a.co/3kVG1z3){:target='_blank'}|Chetan Bhagat|
+|17|[Two States](http://a.co/cxDadtg){:target='_blank'}|Chetan Bhagat|
+|18|[Almost Home](http://a.co/iynQb16){:target='_blank'}|Pam Jenoff|
+|19|[Imperial 109](http://a.co/cvRoERT){:target='_blank'}|Richard Doyle|
+|20|[Harry Potter Series](http://a.co/3ydv73a){:target='_blank'}|J. K. Rowling|
 
 
 ### Wish List
