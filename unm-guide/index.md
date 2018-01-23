@@ -93,6 +93,8 @@ You get a free mailbox, but you have to explicitly sign up for it. Helps if you 
 
 *And did I mention there's free WiFi everywhere on campus?*
 
+Note that **deciding to live on campus temporarily until you find an accommodation off-campus is a bad idea; you'll be subject to massive fines.** Also, if you do sign up for on-campus housing, but never showed up for whatever reason (like, maybe you decided not to live on campus) and you don't cancel your contract before the first day of class, you'll be fined -- as of Spring 2018 -- $2350; that's nearly 1.5 lakh rupees!
+
 ##### Useful Links
 1. UNM Housing [https://housing.unm.edu](https://housing.unm.edu)
 
