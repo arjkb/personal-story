@@ -116,7 +116,7 @@ I chose an unlimited plan -- I can go there all 7 days of the week and as many t
 
 The meal plan is applicable only for LaPo. You have to pay out of your own pocket to eat at other food outlets within the campus.
 
-You can find information about food tariffs [here](http://lobocard.unm.edu/Dining-club-plans/meal-plans-2017-2018.html).
+You can find information about food tariffs [here](https://www.dineoncampus.com/unm/for-residents).
 
 As I'm not crazy about food, I was able to manage just fine. However, if you are a foodie or a vegetarian, perhaps you might want to consider other options.
 
