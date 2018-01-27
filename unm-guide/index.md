@@ -44,6 +44,12 @@ Be forewarned: those 9 credits require a lot more work than 30 credits per sem' 
 
 You have to do a bit of homework before you register. Timings for certain classes clash; choose classes such that none of them are at the same time.
 
+Having said that, I would actually be surprised if your registration process succeeds at the first attempt.
+
+For exchange students, as UNM most likely won't have your past academic records from your ungrad institution in their system, your course registration would be rejected because you *apparently* haven't fulfilled the pre-requisites for the advanced classes you're trying to register for. Contact your international advisor, or the professor whose course you're trying to register for; explain you're an incoming international student, and that you have the pre-requisite knowledge. They would normally take your word for it, but incase they ask be prepared to send them copies of your transcripts from your undergrad instituion.
+
+It's a similar story with full time grad and undergrad students. I don't know about other departments, but for Computer Science atleast, you've to meet your CS department advisor personally before they allow you to register for classes.
+
 Courses here are generally excellent, yet intense. By the time you take 4 subjects, you will be pretty loaded, and will have little free time. If a subject seems too difficult, you can drop it and register for another one within the first couple of weeks after the start of classes. You'll have to check on that.
 
 For most courses, there will be lectures twice or thrice a week, each lasting between 50 to 90 minutes. Labs (if applicable) will be in addition to the lectures.
@@ -97,6 +103,7 @@ Note that **deciding to live on campus temporarily until you find an accommodati
 
 ##### Useful Links
 1. UNM Housing [https://housing.unm.edu](https://housing.unm.edu)
+2. UNM Housing Contract Cancellation [https://housing.unm.edu/living-on-campus/contract-cancellation.html](https://housing.unm.edu/living-on-campus/contract-cancellation.html)
 
 
 ### Food
@@ -115,7 +122,7 @@ I chose an unlimited plan -- I can go there all 7 days of the week and as many t
 
 The meal plan is applicable only for LaPo. You have to pay out of your own pocket to eat at other food outlets within the campus.
 
-You can find information about food tariffs [here](http://lobocard.unm.edu/Dining-club-plans/meal-plans-2017-2018.html).
+You can find information about food tariffs [here](https://www.dineoncampus.com/unm/for-residents).
 
 As I'm not crazy about food, I was able to manage just fine. However, if you are a foodie or a vegetarian, perhaps you might want to consider other options.
 
