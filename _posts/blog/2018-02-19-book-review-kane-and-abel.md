@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Book Review: Kane and Abel'
-excerpt: Your excerpt goes here
+excerpt: My take on one of Jeffrey Archer's finest.
 tags: tag1, tag2
 ---
 Just a short while ago, I finished reading [*Kane and Abel* written by Jeffrey Archer](http://a.co/hHRprre).
