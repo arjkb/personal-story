@@ -11,13 +11,13 @@ excerpt: "List of books I love"
 |1|[A Thousand Splendid Suns](http://a.co/2l7ETiG){:target='_blank'}|Khaled Hosseini|
 |2|[And The Mountains Echoed](http://a.co/8bWBtDq){:target='_blank'}|Khaled Hosseini|
 |3|[The Kite Runner](http://a.co/3WRFolt){:target='_blank'}|Khaled Hosseini|
-|4|[The Alchemist](http://a.co/1kx8lXr){:target='_blank'}|Paulo Coelho|
-|5|[The Idea Factory](http://a.co/ioE8CsV){:target='_blank'}|Pepper White|
-|6|[The Da Vinci Code](http://a.co/gYa6CMs){:target='_blank'}|Dan Brown|
-|7|[The Hound of The Baskervilles](http://a.co/bzPZB2i){:target='_blank'}|Sir Arthur Conan Doyle|
-|8|[The Testament](http://a.co/1sOjiAj){:target='_blank'}|John Grisham|
-|9|[Steve Jobs](http://a.co/79fkAIg){:target='_blank'}|Walter Issacson|
-|10|[The Thirty Nine Steps](http://a.co/5DijlbF){:target='_blank'}|John Buchan|
+|4|[The Da Vinci Code](http://a.co/gYa6CMs){:target='_blank'}|Dan Brown|
+|5|[The Testament](http://a.co/1sOjiAj){:target='_blank'}|John Grisham|
+|6|[The Hound of The Baskervilles](http://a.co/bzPZB2i){:target='_blank'}|Sir Arthur Conan Doyle|
+|7|[The Idea Factory](http://a.co/ioE8CsV){:target='_blank'}|Pepper White|
+|8|[Steve Jobs](http://a.co/79fkAIg){:target='_blank'}|Walter Issacson|
+|9|[The Alchemist](http://a.co/1kx8lXr){:target='_blank'}|Paulo Coelho|
+|10|[Kane and Abel](http://a.co/2DLvQku){:target='_blank'}|Jeffrey Archer|
 |11|[Paths of Glory](http://a.co/2CGLaiQ){:target='_blank'}|Jeffrey Archer|
 |12|[Coma](http://a.co/gMQsUgv){:target='_blank'}|Robin Cook|
 |13|[Contagion](http://a.co/aYlJZY2){:target='_blank'}|Robin Cook|
@@ -26,9 +26,10 @@ excerpt: "List of books I love"
 |16|[Five Point Someone](http://a.co/2w8bGEC){:target='_blank'}|Chetan Bhagat|
 |17|[Revolution Twenty20](http://a.co/3kVG1z3){:target='_blank'}|Chetan Bhagat|
 |18|[Two States](http://a.co/cxDadtg){:target='_blank'}|Chetan Bhagat|
-|19|[Almost Home](http://a.co/iynQb16){:target='_blank'}|Pam Jenoff|
-|20|[Imperial 109](http://a.co/cvRoERT){:target='_blank'}|Richard Doyle|
-|21|[Harry Potter Series](http://a.co/3ydv73a){:target='_blank'}|J. K. Rowling|
+|19|[Imperial 109](http://a.co/cvRoERT){:target='_blank'}|Richard Doyle|
+|20|[Almost Home](http://a.co/iynQb16){:target='_blank'}|Pam Jenoff|
+|21|[The Thirty Nine Steps](http://a.co/5DijlbF){:target='_blank'}|John Buchan|
+|22|[Harry Potter Series](http://a.co/3ydv73a){:target='_blank'}|J. K. Rowling|
 
 ### Wish List
 
@@ -58,7 +59,6 @@ excerpt: "List of books I love"
 |22|[To Kill a Mockingbird](http://a.co/4PaTLuO){:target='_blank'}|Harper Lee|
 |23|[One Flew Over the Cuckoo's Nest](http://a.co/aRfuaFX){:target='_blank'}|Ken Kesey|
 |24|[Gone With The Wind](http://a.co/1dt3Ki8){:target='_blank'}|Margaret Mitchell|
-|25|[Kane and Abel](http://a.co/2DLvQku){:target='_blank'}|Jeffrey Archer|
-|26|[Papillon](http://a.co/7l48fHJ){:target='_blank'}|Henri Charriere|
-|27|[Beneath a Scarlet Sky](){:target='_blank'}|Mark Sullivan|
-|28|[One Hundred Years of Solitude](http://a.co/dpB9Cjw){:target='_blank'}|Gabriel Garcia Marquez|
+|25|[Papillon](http://a.co/7l48fHJ){:target='_blank'}|Henri Charriere|
+|26|[Beneath a Scarlet Sky](){:target='_blank'}|Mark Sullivan|
+|27|[One Hundred Years of Solitude](http://a.co/dpB9Cjw){:target='_blank'}|Gabriel Garcia Marquez|
