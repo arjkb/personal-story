@@ -17,3 +17,9 @@ As mentioned, the story revolves around the rivalry between these two men, which
 The book is a true page-turner filled with suspense. Jeffrey Archer is an established story teller, and this work certainly does not disappoint. I lost count of the number of times I was blown away by the plot twists! There was never a point where I felt bored.
 
 In short, I -- a young adult in his 20s who hasn't begun to appreciate the classics just yet -- think Kane and Abel is an excellent novel.
+
+#### Purchase Kane and Abel
+
+* [Amazon](http://a.co/4syXML6){:target='_blank'}
+* [Amazon India](http://amzn.in/8mZmY0a){:target='_blank'} (for customers from India)
+* [Barnes & Noble](https://www.barnesandnoble.com/w/kane-and-abel-jeffrey-archer/1100358675#/){:target='_blank'}
