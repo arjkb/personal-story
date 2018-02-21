@@ -14,6 +14,6 @@ Though it is a work of fiction, elements have been borrowed from contemporary wo
 
 As mentioned, the story revolves around the rivalry between these two men, which was ultimately based off of a lack of communication and stubborness on both their parts. In my personal opinion, the reason for their hatred is not strong enough and does not justify the decades it lasted.
 
-The book is a true page-turner filled with suspense. I lost count of the number of times I was blown away by the plot twists! There was never a point where I felt bored.
+The book is a true page-turner filled with suspense. Jeffrey Archer is an established story teller, and this work certainly does not disappoint. I lost count of the number of times I was blown away by the plot twists! There was never a point where I felt bored.
 
 In short, I -- a young adult in his 20s who hasn't begun to appreciate the classics just yet -- think Kane and Abel is an excellent novel.
