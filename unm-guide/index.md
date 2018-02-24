@@ -18,13 +18,14 @@ I plan to maintain this article as a living document at least until I graduate f
 
 ---  
 
-**Table of Contents**
+## Table of Contents
 
 1. [Academics](#academics)
 2. [Accomodation](#accomodation)
 3. [Food](#food)
-4. [Life in Albuquerque](#life-in-albuquerque)
-5. [Visa](#visa)
+4. [Healthcare](#healthcare)
+5. [Life in Albuquerque](#life-in-albuquerque)
+6. [Visa](#visa)
 
 ### Academics
 
@@ -131,6 +132,21 @@ Instead of choosing a meal plan, you could cook your own food. Get a room with a
 ##### Useful Links
 1. UNM Dine On Campus [https://www.dineoncampus.com/unm/](https://www.dineoncampus.com/unm/)
 2. [Meal plan information for 2017-2018.](http://lobocard.unm.edu/Dining-club-plans/meal-plans-2017-2018.html)
+
+
+### Healthcare
+Healthcare in the United States is notorious for its exorbitant prices. International students are **required** to have a health insurance (it's a violation of UNM and U.S. policy otherwise).
+
+UNM's Global Education Office website provides more information about obtaining health insurance; visit that page [here.](https://geo.unm.edu/students/health_care/index.html)
+
+Medicines that are freely ("freely" as in, you can get it anywhere; not that the they are free to purchase) available in India may not be available in the United States. You almost always require a prescription to purchase complicated medicines from the pharmacy. Keep that in mind if you're on medications. Having said that, medicines for common aliments such as headaches, cold, or fever can be bought over-the-counter.
+
+UNM has a small clinic called [SHAC (Student Health & Counseling)](https://shac.unm.edu/), that would take care of your minor health issues. However, SHAC is a relatively small facility and is not designed to handle major issues (like, your arm got cut off).
+
+##### Useful Links
+1. GEO Health Care homepage [https://geo.unm.edu/students/health_care/index.html](https://geo.unm.edu/students/health_care/index.html)
+2. Health insurance requirements for international students. <br> [https://geo.unm.edu/students/health_care/health_insurance/insurance_information.html](https://geo.unm.edu/students/health_care/health_insurance/insurance_information.html)
+3. SHAC website [https://shac.unm.edu/](https://shac.unm.edu/)
 
 
 ### Life in Albuquerque
