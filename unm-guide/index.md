@@ -151,7 +151,7 @@ UNM has a small clinic called [SHAC (Student Health & Counseling)](https://shac.
 
 ### Life in Albuquerque
 
-Albuquerque is the largest city in the state of New Mexico. Get rid of any preconveived notions you might have about "cities in America". Albuquerque is not mighty large. I would say it is smaller than Bangalore. Perhaps comparable to Kochi, Kerala.
+Albuquerque is the largest city in the state of New Mexico. Get rid of any preconceived notions you might have about "cities in America". Albuquerque is not mighty large. I would say it is smaller than Bangalore. Perhaps comparable to Kochi, Kerala.
 
 Though the town is relatively small, it has all the amenities you need. There are several shopping centers, and bus rides within the city is free for UNM students; to avail this facility, you need to get a particular sticker stuck onto your ID. You can get more information on that once you're here.
 
