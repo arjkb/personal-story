@@ -18,7 +18,7 @@ I plan to maintain this article as a living document at least until I graduate f
 
 ---  
 
-**Table of Contents**
+## Table of Contents
 
 1. [Academics](#academics)
 2. [Accomodation](#accomodation)
@@ -139,9 +139,9 @@ Healthcare in the United States is notorious for its exorbitant prices. Internat
 
 UNM's Global Education Office website provides more information about obtaining health insurance; visit that page [here.](https://geo.unm.edu/students/health_care/index.html)
 
-Medicines that are freely ("freely" as in, you can get it anywhere; not that the they are free to purchase) available in India may not be available in the United States. You almost always require a prescription to purchase complicated medicines from the pharmacy. Having said that, medicines for common aliments such as headaches, cold, or fever can be bought over-the-counter.
+Medicines that are freely ("freely" as in, you can get it anywhere; not that the they are free to purchase) available in India may not be available in the United States. You almost always require a prescription to purchase complicated medicines from the pharmacy. Keep that in mind if you're on medications. Having said that, medicines for common aliments such as headaches, cold, or fever can be bought over-the-counter.
 
-UNM has a small clinic called [SHAC (Student Health & Counseling)](https://shac.unm.edu/), that would take care of your minor health issues. Keep in mind that SHAC is a relatively small facility and is not designed to handle major issues (like, your arm got cut off).
+UNM has a small clinic called [SHAC (Student Health & Counseling)](https://shac.unm.edu/), that would take care of your minor health issues. However, SHAC is a relatively small facility and is not designed to handle major issues (like, your arm got cut off).
 
 ##### Useful Links
 1. GEO Health Care homepage [https://geo.unm.edu/students/health_care/index.html](https://geo.unm.edu/students/health_care/index.html)
