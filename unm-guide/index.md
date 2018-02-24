@@ -23,8 +23,9 @@ I plan to maintain this article as a living document at least until I graduate f
 1. [Academics](#academics)
 2. [Accomodation](#accomodation)
 3. [Food](#food)
-4. [Life in Albuquerque](#life-in-albuquerque)
-5. [Visa](#visa)
+4. [Healthcare](#healthcare)
+5. [Life in Albuquerque](#life-in-albuquerque)
+6. [Visa](#visa)
 
 ### Academics
 
