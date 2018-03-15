@@ -79,9 +79,11 @@ You do have the option of purchasing used books from Amazon and UNM Bookstore (s
 
 
 ### Accomodation
-You can either choose to live on-campus or off-campus. I've always lived on-campus here because of the safety, security, and convenience it offers. Living off-campus might be cheaper.
+You can either choose to live on-campus or off-campus. Living off-campus might be cheaper. Ms. Rakhi Rajagopal and Mr. Sasidharan Subramanyam -- both of whom were exchange students to UNM from Amrita Viswa Vidyapeetham -- might be able to tell you more about off-campus accomodation. Contact ACIP for their email address or phone number.
 
-To live on campus, you have to register on their [official website](https://housing.unm.edu) beforehand and make advance payment. "Hostels" in UNM are actually called "residence halls" (you don't say "hostel" in UNM). There are several halls to choose from, all with different number of roommates and amenities.
+I've always lived on-campus here because of the safety, security, and convenience it offers.
+
+To live on campus, you have to register on the [official housing website](https://housing.unm.edu) beforehand and make advance payment. "Hostels" in UNM are called "residence halls" (you don't say "hostel" in UNM). There are several halls to choose from, all with different number of roommates and amenities.
 
 The rooms on campus are neat and clean. At a minimum, you get:
 
@@ -192,4 +194,6 @@ There's a fee for the visa-application, which you pay online. I strongly recomme
 
 The [Global Education Office (GEO)](http://geo.unm.edu/) at UNM handles all things related to international students. Check with them for accurate information and resources.
 
-I guess that's just about it. I hope you have a great time at UNM! Good luck!
+I guess that's just about it. Have a great time at UNM! Good luck!
+
+[(Back to table of contents.)](#table-of-contents)
