@@ -195,3 +195,5 @@ There's a fee for the visa-application, which you pay online. I strongly recomme
 The [Global Education Office (GEO)](http://geo.unm.edu/) at UNM handles all things related to international students. Check with them for accurate information and resources.
 
 I guess that's just about it. Have a great time at UNM! Good luck!
+
+[(Back to table of contents.)](#table-of-contents)
