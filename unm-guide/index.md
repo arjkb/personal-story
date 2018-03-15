@@ -83,7 +83,7 @@ You can either choose to live on-campus or off-campus. Living off-campus might b
 
 I've always lived on-campus here because of the safety, security, and convenience it offers.
 
-To live on campus, you have to register on their [official website](https://housing.unm.edu) beforehand and make advance payment. "Hostels" in UNM are actually called "residence halls" (you don't say "hostel" in UNM). There are several halls to choose from, all with different number of roommates and amenities.
+To live on campus, you have to register on the [official housing website](https://housing.unm.edu) beforehand and make advance payment. "Hostels" in UNM are actually called "residence halls" (you don't say "hostel" in UNM). There are several halls to choose from, all with different number of roommates and amenities.
 
 The rooms on campus are neat and clean. At a minimum, you get:
 
