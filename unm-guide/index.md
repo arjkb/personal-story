@@ -79,7 +79,7 @@ You do have the option of purchasing used books from Amazon and UNM Bookstore (s
 
 
 ### Accomodation
-You can either choose to live on-campus or off-campus. Living off-campus might be cheaper. Ms. Rakhi Rajagopal and Mr. Sasidharan Subramanyam -- both of whom were exchange students to UNM from Amrita Viswa Vidyapeetham -- might be able to tell you more about off-campus accomodation. Contact ACIP for their email address or phone number.
+You can either choose to live on-campus or off-campus. Living off-campus might be cheaper. Ms. Rakhi Rajagopal and Mr. Sasidharan Subramanyam -- both of whom were exchange students to UNM from Amrita Vishwa Vidyapeetham -- might be able to tell you more about off-campus accomodation. Contact ACIP for their email address or phone number.
 
 I've always lived on-campus here because of the safety, security, and convenience it offers.
 
