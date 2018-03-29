@@ -161,7 +161,7 @@ You could also make use of Uber for transportation within the city.
 
 It is pretty cold during the winter. In January temperatures go well below 0&deg;C degrees at night and upto about 10&deg;C during the day. (Take a walk early in the morning, and you will see small lakes and ponds frozen solid. I'm not exaggerating).
 
-Heaters are in all rooms so you won't have a problem indoors. But you need multiple layers of clothing when stepping out. I recommend thermals, sweaters, thin jacket(s), and a thick jacket capable of widthstanding rain and snow.
+Heaters are in all rooms so you won't have a problem indoors. But you need multiple layers of clothing when stepping out. I recommend thermals, sweaters, thin jacket(s), and a thick jacket capable of withstanding rain and snow.
 
 Temperatures in summer and early fall ranges from about 18&deg;C to 30&deg;C.  
 
