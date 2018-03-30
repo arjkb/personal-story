@@ -168,6 +168,7 @@ Temperatures in summer and early fall ranges from about 18&deg;C to 30&deg;C.
 There are plenty of restaurants in the city. Even a couple of Indian restaurants where the food is good in my opinion. A decent meal costs between $8 and $20. Restaurants here tend to expect a tip, like around 30% of the bill. You don't have to tip if you don't want to. They're aware that international students are usually on a tight budget.
 
 A coffee is between $2 and $5. You would inevitably drink a lot of those 😉.
+(Try the Venti Iced White Chocolate Mocha with whipped cream from Starbucks @ Zimmerman. You'll love it!).
 
 Your international friends on campus would tell you about a lot more places to go sight-seeing!
 
