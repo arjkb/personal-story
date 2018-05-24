@@ -7,9 +7,9 @@ tags: town museum
 
 *DISCLAIMER: I have no idea how much of what I saw in the museum is a fact. Read this article with a pinch of salt. And don't quote me on anything.*
 
-I read a couple of months ago that there was a special exhibition of Leonardo da Vinci at the New Mexico Museum of Natural History here in Albuquerque, and decided it would be a great idea to check it out today.
+I read a couple of months ago that there was a [special exhibition of Leonardo da Vinci at the New Mexico Museum of Natural History & Science](http://www.nmnaturalhistory.org/exhibits/temporary-exhibits/da-vinci-genius) here in Albuquerque, and decided it would be a great idea to check it out.
 
-Of course, the museum showcased a bunch of interesting things, from dinosaurs, to rare gems. But the highlight however, was the aforementioned da Vinci exhibition. As a matter of fact, the da Vinci section was spread across multiple floors.
+Of course, the museum showcased a bunch of interesting things, from dinosaurs to rare gems. But the highlight however, was the aforementioned da Vinci exhibition. As a matter of fact, the da Vinci section was spread across multiple floors.
 
 ### Mona Lisa
 Something that I've been curious about all my life is the [Mona Lisa](https://en.wikipedia.org/wiki/Mona_Lisa). In fact, one of the prime reasons I went to the whole exhibition was to learn as much as I can about Mona Lisa specifically. All these years, I never really understood why that particular painting has gathered the international acclaim it has. I believe beauty lies in the eyes of the beholder, but nevertheless I also believe there are better portraits of more beautiful women.
@@ -25,3 +25,12 @@ Also, I might be missing something, but I really can't fathom why artists back i
 And, as far as her beauty is concerned, I now think that the portrait is surprisingly detailed and rather realistic -- as in, real like a photograph -- especially when you see a really big version of the portrait. Keep in mind it's a 16th century paiting. Notice the smoothness of her hands, the individual strads of her hair, the subtle veil over her head.
 
 I've never really been all that interested in art, but Mona Lisa has got me hooked. I now intend to check out the original Mona Lisa at the [Louvre Museum in Paris](https://en.wikipedia.org/wiki/Louvre). 
+
+
+### Dinosaur Bones
+I'm not as curious about dinosaurs as I was back in 3rd grade. Anyway, it turns out there are plenty of dinosaur fossils here in New Mexico and in United States in general. 
+
+I'll let the pictures do the talking. 
+
+Of course, in the museum, there were also replicas, in addition to the real bones; one way to tell the replica from the real bone was to look out for the sticker next to the bone that says "Certified New Mexico Fossil".
+
