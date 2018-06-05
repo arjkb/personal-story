@@ -31,15 +31,18 @@ The exhibition wasn't all Mona Lisa; his other paintings were also on display, a
 
 In the part of the world where I live in, da Vinci is best known as an artist. However, he was also a scientist/engineer, and replicas of some of his inventions were on display. It included the bicycle, apparatus to lift heavy objects, apparatus for measuing distance travelled, and many others. Some of those replicas had levers we could turn to understand how they worked.
 
+![Apparatus to measure distance]({{ "/assets/images/museum/vinci4_odo.jpg" | absolute_url }})
+`Apparatus to measure distance`
 
 ### Dinosaur Bones
 I'm not as curious about dinosaurs as I was back in 3rd grade. Anyway, it turns out there are plenty of dinosaur fossils here in New Mexico and in the United States in general. 
 
-I'll let the pictures do the talking. 
-
 ![Dinosaur Bone]({{ "/assets/images/museum/dino1.jpg" | absolute_url }})
 
 This is the first time I'm seeing real dinosaur bones. One way to tell the replica from the real bone was to look out for the sticker next to the bone that says "Certified New Mexico Fossil".
+
+![Stamp]({{ "/assets/images/museum/dino2.jpg" | absolute_url }})
+`The stamp of authenticity`
 
 ### Planetarium
 My ticket also included one planetarium visit. For those of you who don't know, a planetarium is a giant theatre-like room with a large dome-shaped roof. The seats are angled such that you stare onto the roof by default. And the roof is so big that's all you see. Projectors project videos onto this dome-shaped roof.
