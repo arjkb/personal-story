@@ -37,7 +37,7 @@ I'm not as curious about dinosaurs as I was back in 3rd grade. Anyway, it turns 
 
 I'll let the pictures do the talking. 
 
-![Dinosaur Bone]({{ "/assets/iamge" | absolute_url }})
+![Dinosaur Bone]({{ "/assets/images/museum/dino1.jpg" | absolute_url }})
 
 This is the first time I'm seeing real dinosaur bones. One way to tell the replica from the real bone was to look out for the sticker next to the bone that says "Certified New Mexico Fossil".
 
