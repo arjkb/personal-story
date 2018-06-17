@@ -19,7 +19,7 @@ excerpt: "List of books I love"
 |9|[I Am Malala](http://a.co/itGMMK5){:target='_blank'}|Malala Yousafzai|
 |10|[Steve Jobs](http://a.co/79fkAIg){:target='_blank'}|Walter Issacson|
 |11|[The Alchemist](http://a.co/1kx8lXr){:target='_blank'}|Paulo Coelho|
-|12|[Kane and Abel](http://a.co/2DLvQku){:target='_blank'}|Jeffrey Archer|
+|12|[Kane and Abel](http://a.co/2DLvQku){:target='_blank'} ([review](https://arjunkrishnababu96.github.io/personal-story/book-review-kane-and-abel/){:target='_blank'})|Jeffrey Archer|
 |13|[Paths of Glory](http://a.co/2CGLaiQ){:target='_blank'}|Jeffrey Archer|
 |14|[Coma](http://a.co/gMQsUgv){:target='_blank'}|Robin Cook|
 |15|[Contagion](http://a.co/aYlJZY2){:target='_blank'}|Robin Cook|
@@ -56,12 +56,14 @@ excerpt: "List of books I love"
 |17|[Murder on the Orient Express](http://a.co/ebDlrHR){:target='_blank'}|Agatha Christie|
 |18|[Little Women](http://a.co/7OaNtR9){:target='_blank'}|Louisa May Alcott|
 |19|[Crime and Punishment](http://a.co/fQHomP8){:target='_blank'}|Fyodor Dostoyevsky|
-|20|[The Sun Also Rises](http://a.co/aqU6Ess){:target='_blank'}|Ernest Hemingway|
-|21|[The Inheritance of Loss](http://a.co/667tXNU){:target='_blank'}|Kiran Desai|
-|22|[To Kill a Mockingbird](http://a.co/4PaTLuO){:target='_blank'}|Harper Lee|
-|23|[One Flew Over the Cuckoo's Nest](http://a.co/aRfuaFX){:target='_blank'}|Ken Kesey|
-|24|[Gone With The Wind](http://a.co/1dt3Ki8){:target='_blank'}|Margaret Mitchell|
-|25|[Papillon](http://a.co/7l48fHJ){:target='_blank'}|Henri Charriere|
-|26|[Beneath a Scarlet Sky](){:target='_blank'}|Mark Sullivan|
-|27|[One Hundred Years of Solitude](http://a.co/dpB9Cjw){:target='_blank'}|Gabriel Garcia Marquez|
-|28|[The Danish Girl](http://a.co/alexnX0){:target='_blank'}|David Ebershoff|
+|20|[The Bachelor of Arts](http://a.co/eaCUebe){:target='_blank'}|R. K. Narayan|
+|21|[The English Teacher](http://a.co/3WjdbEr){:target='_blank'}|R. K. Narayan|
+|22|[The Sun Also Rises](http://a.co/aqU6Ess){:target='_blank'}|Ernest Hemingway|
+|23|[The Inheritance of Loss](http://a.co/667tXNU){:target='_blank'}|Kiran Desai|
+|24|[To Kill a Mockingbird](http://a.co/4PaTLuO){:target='_blank'}|Harper Lee|
+|25|[One Flew Over the Cuckoo's Nest](http://a.co/aRfuaFX){:target='_blank'}|Ken Kesey|
+|26|[Gone With The Wind](http://a.co/1dt3Ki8){:target='_blank'}|Margaret Mitchell|
+|27|[Papillon](http://a.co/7l48fHJ){:target='_blank'}|Henri Charriere|
+|28|[Beneath a Scarlet Sky](){:target='_blank'}|Mark Sullivan|
+|29|[One Hundred Years of Solitude](http://a.co/dpB9Cjw){:target='_blank'}|Gabriel Garcia Marquez|
+|30|[The Danish Girl](http://a.co/alexnX0){:target='_blank'}|David Ebershoff|
