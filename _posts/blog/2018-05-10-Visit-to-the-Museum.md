@@ -31,17 +31,17 @@ The exhibition wasn't all Mona Lisa; his other paintings were also on display, a
 
 Where I come from, da Vinci is best known as an artist. However, he was also a scientist/engineer, and replicas of some of his inventions were on display. It included the bicycle (some say he didn't come up with the bicycle), apparatus to lift heavy objects, apparatus for measuing distance travelled, and many others. Some of those replicas, such as a miniature model of the apparatus to lift heavy objects, had levers we could turn to understand how they worked.
 
-![Apparatus to measure distance]({{ "/assets/images/museum/vinci4_odo.jpg" | absolute_url }})
+![Apparatus to measure distance]({{ site.url }}/assets/images/museum/vinci4_odo.jpg)
 `Apparatus to measure distance`
 
 ### Dinosaur Bones
 Turns out there are plenty of real dinosaur fossils here in New Mexico and in the United States in general. Pity I'm not as curious about them as I was 15 years ago.
 
-![Dinosaur Bone]({{ "/assets/images/museum/dino1.jpg" | absolute_url }})
+![Dinosaur Bone]({{ site.url }}/assets/images/museum/dino1.jpg)
 
 This is the first time I'm seeing real dinosaur bones. One way to tell the replica from the real bone was to look out for the sticker next to the bone that says "Certified New Mexico Fossil".
 
-![Stamp]({{ "/assets/images/museum/dino2.jpg" | absolute_url }})
+![Stamp]({{ site.url }}/assets/images/museum/dino2.jpg)
 `The stamp of authenticity`
 
 ### Planetarium
